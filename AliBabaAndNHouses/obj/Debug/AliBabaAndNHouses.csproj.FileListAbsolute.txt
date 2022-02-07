@@ -1,0 +1,8 @@
+D:\University\third year\first term\algo\assignments\[GEN]BONUS ASS\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\input.txt
+D:\University\third year\first term\algo\assignments\[GEN]BONUS ASS\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\samples.txt
+D:\University\third year\first term\algo\assignments\[GEN]BONUS ASS\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.exe.config
+D:\University\third year\first term\algo\assignments\[GEN]BONUS ASS\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.exe
+D:\University\third year\first term\algo\assignments\[GEN]BONUS ASS\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.pdb
+D:\University\third year\first term\algo\assignments\[GEN]BONUS ASS\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.csprojAssemblyReference.cache
+D:\University\third year\first term\algo\assignments\[GEN]BONUS ASS\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.exe
+D:\University\third year\first term\algo\assignments\[GEN]BONUS ASS\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.pdb
